@@ -1,12 +1,12 @@
 # Tether — 宣传片
 
-[在线播放](https://candle98.github.io/Tether-promo/) · [下载 MP4](https://candle98.github.io/Tether-promo/assets/tether-trailer.mp4)
+[在线播放](https://candle98.github.io/Tether-promo/) · [下载 MP4](https://candle98.github.io/Tether-promo/assets/tether-trailer.mp4?v=20261110-impact)
 
-[![Tether 宣传片](assets/poster.jpg)](https://candle98.github.io/Tether-promo/)
+[![Tether 宣传片](assets/poster.jpg?v=20261110-impact)](https://candle98.github.io/Tether-promo/)
 
-Tether 是一款使用 Unreal Engine 5 开发的第一人称射击 Roguelike。宣传片展示当前项目的电光蓝视觉、兜帽角色、城市场景与 Boss 场景。
+Tether 是一款使用 Unreal Engine 5 开发的第一人称射击 Roguelike。2026 年 11 月更新的宣传片加入掌心激光、敌人与墙面的碰撞命中反馈、三选一被动升级的实机片段，并保留电光蓝视觉、兜帽角色、城市场景与 Boss 场景展示。
 
-宣传片长 36 秒，采用 1920×1080、30fps 画面与配乐。视频由项目现有动画、游戏场景截图及项目配乐剪辑制作；截图段使用轻微推近，并在画面中标注“游戏画面截图”。
+宣传片长 36 秒，采用 1920×1080、30fps 画面与项目原有配乐。视频由实机录屏、项目现有动画及游戏场景截图剪辑制作；实机段标注“游戏内实时画面”，截图段标注“游戏画面截图”。
 
 ## 仓库内容
 
